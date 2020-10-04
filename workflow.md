@@ -1,7 +1,7 @@
-# Our Workflow
+# Workflow
 <br/>
 
-> ## 1. Our team members.
+> ## 1. Our team members
 Our team has five members. Their information is written below.<br/>
  
 | NAME            | Student ID    | Github Link            |
@@ -13,6 +13,14 @@ Our team has five members. Their information is written below.<br/>
 | _Subin Han_     | 2019071994    | [Subin Han](https://github.com/hansususu)     | 
 
 <br/>
+
 > ## 2. Our Branch
 We have two braches, Branch A and Branch B.
+
+* Branch A
+	* Yewon, Minji and Subin will commit and push to Branch A.
+
+* Branch B
+	* Yejin and Yeonju will commit and push to Branch B.
+
 
