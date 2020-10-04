@@ -59,5 +59,5 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
      연결을 해주어야 한다. master repository에 업데이트 되는 새로운 내용, 변경 사항들을 
      수시로 pull을 해서 local을 맞춰줘야 한다. 
   </code></pre>
-
-
+  
+  ![KakaoTalk_20201004_181834407](https://user-images.githubusercontent.com/54140431/95012526-40ea4500-0674-11eb-8ac6-5a19fee3bf55.jpg)
