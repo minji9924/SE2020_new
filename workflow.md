@@ -59,5 +59,5 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
      연결을 해주어야 한다. master repository에 업데이트 되는 새로운 내용, 변경 사항들을 
      수시로 pull을 해서 local을 맞춰줘야 한다. 
   </code></pre>
-
-
+  
+    ![workflow](https://user-images.githubusercontent.com/55871397/95009116-679b8200-065a-11eb-8f86-f0309eaf6ddb.jpg)
