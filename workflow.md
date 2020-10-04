@@ -60,3 +60,38 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
      수시로 pull을 해서 local을 맞춰줘야 한다. 
   </code></pre>
   ![KakaoTalk_20201004_181834407](https://user-images.githubusercontent.com/54140431/95012526-40ea4500-0674-11eb-8ac6-5a19fee3bf55.jpg)
+
+## 4. Conflict Prevention
+
+### 1. Competing line change merge conflicts
+<pre><code>
+1. 팀을 나눈 후, 한 팀이 겹치는 파일을 먼저 고치고 push한다.
+After dividing into teams, one team fixes the overlapping files first and push them.
+
+2. 그 다음, 다른 팀은 pull하고 파일을 수정하고 push한다.
+The next team should do pull and fix the files and push.
+
+시간 간격을 두어야하며 파일을 수정하기 전에 먼저 pull해야 한다.
+Divide the time slot and do pull first before modifying the files.
+</pre></code>
+
+### 2. Removed file merge conflicts
+<pre><code>
+파일을 삭제할 때, 다른 팀원들에게 말한다.
+When somebody deletes a file, the person should tell the team members.
+
+파일을 삭제하는 것에 대해 팀원들과 의논한다.
+Discuss with team members when deleting files.
+</pre></code>
+
+어떤 상황이든 pull과 push를 자주하여 자신의 저장소와 원격 저장소의 상태를 최신으로 유지하는 것이 중요하다.
+
+In any situation, it is important to keep your storage and remote storage up to date by frequent pull and push.
+
+
+
+
+
+
+
+
