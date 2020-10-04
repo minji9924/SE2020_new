@@ -1,8 +1,32 @@
-# SE2020_new
+# Workflow
+<br/>
 
-# Workflow Scenario
+> ## 1. Our team members
+Our team has five members. Their information is written below.<br/>
+ 
+| NAME            | Student ID    | Github Link            |
+|:----------------|:-------------:| ----------------------:|
+| _Yewon Kang_    | 2019054693    | [Yewon Kang](https://github.com/yewonkang00)  |
+| _Yejin Kim_     | 2019069034    | [Yejin Kim](https://github.com/yejin00)       |
+| _Minji Jeon_    | 2019025823    | [Minji Jeon](https://github.com/minji9924)    |
+| _Yeonju Jeong_  | 2019014739    | [Yeonju Jeong](https://github.com/yeonjujeong)|
+| _Subin Han_     | 2019071994    | [Subin Han](https://github.com/hansususu)     | 
 
-## 1. Git branch
+<br/>
+
+> ## 2. Our Branch
+We have two braches, Branch A and Branch B.
+
+* Branch A
+	* Yewon, Minji and Subin will commit and push to Branch A.
+
+* Branch B
+	* Yejin and Yeonju will commit and push to Branch B.
+<br/>
+
+> ## 3. Workflow Scenario
+
+### 1. Git branch
   <pre><code>
 master : 제품으로 출시될 수 있는 브랜치
 develop : 다음 출시 버전을 개발하는 브랜치
@@ -11,7 +35,7 @@ release : 이번 출시 버전을 준비하는 브랜치
 hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
   </code></pre>
 
-## 2. Git Workflow
+### 2. Git Workflow
   <pre><code>
   1. 깃허브 repository에서 나의 repository에 fork한다.
   
@@ -35,7 +59,5 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
      연결을 해주어야 한다. master repository에 업데이트 되는 새로운 내용, 변경 사항들을 
      수시로 pull을 해서 local을 맞춰줘야 한다. 
   </code></pre>
-
-  ![workflow](https://user-images.githubusercontent.com/55871397/95009116-679b8200-065a-11eb-8f86-f0309eaf6ddb.jpg)
 
 
