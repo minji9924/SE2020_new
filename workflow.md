@@ -8,7 +8,7 @@ Our team has five members. Their information is written below.<br/>
 |:----------------|:-------------:| ----------------------:|
 | _Yewon Kang_    | 2019054693    | [Yewon Kang](https://github.com/yewonkang00)  |
 | _Yejin Kim_     | 2019069034    | [Yejin Kim](https://github.com/yejin00)       |
-| _Minji Jun_    | 2019025823    | [Minji Jun](https://github.com/minji9924)    |
+| _Minji Jeon_    | 2019025823    | [Minji Jeon](https://github.com/minji9924)    |
 | _Yeonju Jeong_  | 2019014739    | [Yeonju Jeong](https://github.com/yeonjujeong)|
 | _Subin Han_     | 2019071994    | [Subin Han](https://github.com/hansususu)     | 
 
@@ -59,5 +59,4 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
      연결을 해주어야 한다. master repository에 업데이트 되는 새로운 내용, 변경 사항들을 
      수시로 pull을 해서 local을 맞춰줘야 한다. 
   </code></pre>
-  
-    ![workflow](https://user-images.githubusercontent.com/55871397/95009116-679b8200-065a-11eb-8f86-f0309eaf6ddb.jpg)
+  ![KakaoTalk_20201004_181834407](https://user-images.githubusercontent.com/54140431/95012526-40ea4500-0674-11eb-8ac6-5a19fee3bf55.jpg)
