@@ -1,6 +1,6 @@
-> # Our Workflow
+# Our Workflow
 
-## Our team members.
+> ## Our team members.
 Our team has five members. Their information is written below.
 
 
@@ -20,5 +20,6 @@ Github Link: [Yeonju Jeong](https://github.com/yeonjujeong)
 Github Link: [Subin Han](https://github.com/hansususu)
 
 
-## Our Branch
+> ## Our Branch
+We have two braches, Branch A and Branch B.
 
