@@ -1,5 +1,5 @@
 # Our Workflow
-<br/><br/>
+<br/>
 
 > ## 1. Our team members.
 Our team has five members. Their information is written below.<br/>
@@ -12,8 +12,7 @@ Our team has five members. Their information is written below.<br/>
 | _Yeonju Jeong_  | 2019014739    | [Yeonju Jeong](https://github.com/yeonjujeong)|
 | _Subin Han_     | 2019071994    | [Subin Han](https://github.com/hansususu)     | 
 
-<br/><br/>
-
+<br/>
 > ## 2. Our Branch
 We have two braches, Branch A and Branch B.
 
