@@ -60,4 +60,5 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
      수시로 pull을 해서 local을 맞춰줘야 한다. 
   </code></pre>
   
-    ![workflow](https://user-images.githubusercontent.com/55871397/95009116-679b8200-065a-11eb-8f86-f0309eaf6ddb.jpg)
+    ![KakaoTalk_20201004_181834407](https://user-images.githubusercontent.com/54140431/95012293-6d9d5d00-0672-11eb-8be4-58cd86a38f4e.jpg)
+
