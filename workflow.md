@@ -2,7 +2,7 @@
 
 # Workflow Scenario
 
-##1. Git branch
+## 1. Git branch
   <pre><code>
 master : 제품으로 출시될 수 있는 브랜치
 develop : 다음 출시 버전을 개발하는 브랜치
@@ -11,7 +11,7 @@ release : 이번 출시 버전을 준비하는 브랜치
 hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
   </code></pre>
 
-##2. Git Workflow
+## 2. Git Workflow
   <pre><code>
   1. 깃허브 repository에서 나의 repository에 fork한다.
   
