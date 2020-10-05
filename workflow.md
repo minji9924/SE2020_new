@@ -8,7 +8,7 @@ Our team has five members. Their information is written below.<br/>
 |:----------------|:-------------:| ----------------------:|
 | _Yewon Kang_    | 2019054693    | [Yewon Kang](https://github.com/yewonkang00)  |
 | _Yejin Kim_     | 2019069034    | [Yejin Kim](https://github.com/yejin00)       |
-| _Minji Jeon_    | 2019025823    | [Minji Jeon](https://github.com/minji9924)    |
+| _Minji Jun_    | 2019025823    | [Minji Jun](https://github.com/minji9924)    |
 | _Yeonju Jeong_  | 2019014739    | [Yeonju Jeong](https://github.com/yeonjujeong)|
 | _Subin Han_     | 2019071994    | [Subin Han](https://github.com/hansususu)     | 
 
@@ -103,9 +103,6 @@ Discuss with team members when deleting files.
 In any situation, it is important to keep your storage and remote storage up to date by frequent pull and push.
 
 
+## 5. Workflow
 
-
-
-
-
-
+  ![workflow](https://raw.githubusercontent.com/minji9924/SE2020_new/minji1/image/workflow2.png)
