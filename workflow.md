@@ -104,9 +104,8 @@ In any situation, it is important to keep your storage and remote storage up to 
 
 
 ##5. Workflow
-<pre><code>
-  ![workflow](https://github.com/minji9924/SE2020_new/blob/minji1/image/workflow2.png)
-</code></pre>
+
+  ![workflow](./image/workflow2.png)
 
 
 
