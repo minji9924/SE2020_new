@@ -15,13 +15,13 @@ Our team has five members. Their information is written below.<br/>
 <br/>
 
 > ## 2. Our Branch
-We have two braches, Branch A and Branch B.
+We have two braches, Branch 1 and Branch 2.
 
-* Branch A
-	* Yewon, Minji and Subin will commit and push to Branch A.
+* Branch 1
+	* Yewon, Minji and Subin will commit and push to Branch 1.
 
-* Branch B
-	* Yejin and Yeonju will commit and push to Branch B.
+* Branch 2
+	* Yejin and Yeonju will commit and push to Branch 2.
 <br/>
 
 > ## 3. Workflow Scenario
